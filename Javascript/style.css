@@ -1,0 +1,25 @@
+#heading {
+  margin: 15px 40px;
+  height: auto;
+  text-align: center;
+  padding: 10px;
+  border-radius: 0.3;
+}
+
+h1 {
+  font-family: monospace;
+  font-weight: bolder;
+}
+
+.board{
+  align-content: center;
+}
+
+td {
+  height: 50px;
+  width: 50px;
+  padding: 3px;
+  text-align: center;
+  font-weight: bolder;
+  font-size: 2em;
+}
